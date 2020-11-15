@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='tipHelperDemo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/TGJKAMnlxr.gif' width=250><br>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
